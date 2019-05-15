@@ -1,19 +1,56 @@
 {
-  "posts": [
+  "images": [
+    { 
+      "guid": "img1",
+      "path": "./assets/img/fireextinguisher.png"
+    },
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "guid": "img2",
+      "path": "./assets/img/fire.png"
+    },
+    {
+      "guid": "img3",
+      "path": "./assets/img/amigos.png"
+    },
+    {
+      "guid": "img4",
+      "path": "./assets/img/palmtree.png"
+    },
+    {
+      "guid": "img5",
+      "path": "./assets/img/football.png"
+    },
+    {
+      "guid": "img6",
+      "path": "./assets/img/motorbike.png"
+    },
+    {
+      "guid": "img7",
+      "path": "./assets/img/sportscar.png"
+    },
+    {
+      "guid": "img8",
+      "path": "./assets/img/armour.png"
+    },
+    {
+      "guid": "img9",
+      "path": "./assets/img/lifesaver.png"
+    },
+    {
+      "guid": "img10",
+      "path": "./assets/img/umbrella.png"
+    },
+    {
+      "guid": "img11",
+      "path": "./assets/img/babyelephant.png"
+    },
+    {
+      "guid": "img12",
+      "path": "./assets/img/vector.png"
     }
   ],
   "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
+    { "id": 1, "body": "some comment", "postId": 1 }	
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": { "name": "typicode" }
 }
