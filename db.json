@@ -49,8 +49,47 @@
       "path": "./assets/img/vector.png"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }	
+  "userdata": [
+    {
+      "id": 1,
+      "name": "Giorgos",
+      "password": "xxxxx"
+    },
+    {
+      "id": 2,
+      "name": "Alexis",
+      "password": "karapialis"
+    },
+    {
+      "id": 3,
+      "name": "Alexis",
+      "password": "karapialis"
+    },
+    {
+      "id": 4,
+      "name": "Nikos",
+      "password": "karapialis"
+    },
+    {
+      "id": 5,
+      "name": "Minos",
+      "password": "1234"
+    },
+    {
+      "id": 6,
+      "name": "Niki",
+      "password": "1237"
+    },
+    {
+      "id": 7,
+      "name": "Alkinoos",
+      "password": "1234"
+    },
+    {
+      "id": 8,
+      "name": "Eleni2",
+      "password": "1234"
+    }
   ],
   "profile": { "name": "typicode" }
 }
